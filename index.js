@@ -22,6 +22,7 @@ function dec(n){
   return --n
 }
 
-function makeInt(n){
+function makeInt(n=806){
   parseInt('n',10 )
 }
+
