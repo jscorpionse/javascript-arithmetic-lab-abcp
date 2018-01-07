@@ -25,4 +25,3 @@ function dec(n){
 function makeInt(n=806){
   parseInt('n',10 )
 }
-
